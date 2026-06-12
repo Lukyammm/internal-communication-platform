@@ -1,4 +1,4 @@
-# Comunica
+# Internal Communication Platform
 
 Internal communication platform for organizing announcements, updates, and team information.
 
