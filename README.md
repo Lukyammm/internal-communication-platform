@@ -1,45 +1,45 @@
 # Internal Communication Platform
 
-Internal communication platform for organizing announcements, updates, and team information.
+Repository: `internal-communication-platform`
 
 ## Overview
 
-This project was developed to solve real operational problems using web technologies and Google Workspace tools.
+Internal communication portal for announcements, shift notices, extensions, categories, administration, and publication history.
 
-## Features
+## Main Capabilities
 
-- Dashboard interface
-- Process automation
-- Data organization
-- KPI monitoring
-- Responsive design
-- Google Workspace integration
+- Top navigation for announcements, shift notices, extensions, and admin.
+- Announcement board with date, title, category, and publication status.
+- Extension directory and staff-access login field.
+- Administrative form for publishing and maintaining content.
+
+## Operating Flow
+
+1. Staff members access the portal and review current announcements.
+2. The shift and extension tabs support daily operational communication.
+3. Admins publish new announcements and maintain categories.
+4. The history view keeps communication traceable.
+
+## Visual System Guide
+
+> The screens below are documentation mockups based on the components, labels, colors, and workflows found in this repository. All displayed data is fictitious and does not represent real patients, staff members, or institutions.
+
+### Internal Communication - portal
+![Internal Communication - portal](./docs/screenshots/communications-portal.svg)
+
+### Internal Communication - admin
+![Internal Communication - admin](./docs/screenshots/communication-admin.svg)
+
+## Data Privacy
+
+The repository documentation and guide images use fictitious sample data only.
 
 ## Technologies
 
 - JavaScript
-- HTML
-- CSS
+- HTML/CSS
 - Google Apps Script
 - Google Sheets
-- Looker Studio
-
-## Purpose
-
-The goal of this project is to improve operational efficiency, reduce manual work, and support better decision-making through automation and clear data visualization.
-
-
-
-
-## Guia visual do sistema
-
-> Telas demonstrativas baseadas nos componentes, textos, cores e fluxos encontrados no código deste repositório. Os dados exibidos são fictícios e não representam pacientes, profissionais ou instituições reais.
-
-### Comunicação Interna - portal
-![Comunicação Interna - portal](./docs/screenshots/portal-comunicados.svg)
-
-### Comunicação Interna - administração
-![Comunicação Interna - administração](./docs/screenshots/admin-comunicacao.svg)
 
 ## Status
 
