@@ -1,46 +1,62 @@
-# Internal Communication Platform
+﻿<div align="center">
+  
+  # Internal Communication Platform
 
-Repository: `internal-communication-platform`
+  ![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+  ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+  ![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
 
-## Overview
+</div>
 
-Internal communication portal for announcements, shift notices, extensions, categories, administration, and publication history.
+<br/>
 
-## Main Capabilities
+## ðŸŽ¯ VisÃ£o Geral
+**Internal Communication Platform** Ã© uma soluÃ§Ã£o focada na Ã¡rea da saÃºde e operaÃ§Ãµes clÃ­nicas. Este repositÃ³rio contÃ©m as ferramentas e os recursos necessÃ¡rios para melhorar processos, trazer clareza de dados e otimizar fluxos de trabalho. 
 
-- Top navigation for announcements, shift notices, extensions, and admin.
-- Announcement board with date, title, category, and publication status.
-- Extension directory and staff-access login field.
-- Administrative form for publishing and maintaining content.
+> *Nota: Este projeto faz parte do portfÃ³lio de soluÃ§Ãµes clÃ­nicas e analÃ­ticas para gestÃ£o hospitalar e eficiÃªncia corporativa.*
 
-## Operating Flow
+---
 
-1. Staff members access the portal and review current announcements.
-2. The shift and extension tabs support daily operational communication.
-3. Admins publish new announcements and maintain categories.
-4. The history view keeps communication traceable.
+## âœ¨ Principais Recursos
 
-## Visual System Guide
+- **ðŸ“Š Dashboards AnalÃ­ticos:** VisualizaÃ§Ã£o clara e moderna de mÃ©tricas crÃ­ticas.
+- **âš™ï¸ OtimizaÃ§Ã£o de Processos:** Fluxos de trabalho digitais que reduzem o esforÃ§o burocrÃ¡tico.
+- **ðŸ¥ Foco ClÃ­nico/Hospitalar:** Desenvolvido visando a realidade das operaÃ§Ãµes de saÃºde.
+- **ðŸ”’ SeguranÃ§a e Qualidade:** Foco em compliance e melhoria contÃ­nua.
 
-> The screens below are documentation mockups based on the components, labels, colors, and workflows found in this repository. All displayed data is fictitious and does not represent real patients, staff members, or institutions.
+---
 
-### Internal Communication - portal
-![Internal Communication - portal](./docs/screenshots/communications-portal.svg)
+## ðŸ’» Tecnologias e Estrutura
 
-### Internal Communication - admin
-![Internal Communication - admin](./docs/screenshots/communication-admin.svg)
+Este projeto utiliza prÃ¡ticas modernas de desenvolvimento para garantir manutenÃ§Ã£o simplificada e escalabilidade.
 
-## Data Privacy
+- PadrÃµes visuais atualizados
+- Estrutura clara de diretÃ³rios
+- Foco em usabilidade
 
-The repository documentation and guide images use fictitious sample data only.
+---
 
-## Technologies
+## ðŸš€ Como ComeÃ§ar
 
-- JavaScript
-- HTML/CSS
-- Google Apps Script
-- Google Sheets
+1. Clone o repositÃ³rio:
+   `ash
+   git clone https://github.com/Lukyammm/internal-communication-platform.git
+   `
+2. Acesse a pasta do projeto:
+   `ash
+   cd internal-communication-platform
+   `
+3. Consulte a documentaÃ§Ã£o interna para mais detalhes de configuraÃ§Ã£o e execuÃ§Ã£o.
 
-## Status
+---
 
-Completed
+## ðŸ¤ Contato e ContribuiÃ§Ã£o
+
+Feito com dedicaÃ§Ã£o por **Lukyam Madeira**.
+Sinta-se Ã  vontade para explorar, abrir *issues* para dÃºvidas ou sugerir melhorias.
+
+<div align="center">
+  <a href="https://github.com/Lukyammm">
+    <img src="https://img.shields.io/badge/GitHub-Lukyammm-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</div>
